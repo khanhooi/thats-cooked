@@ -1,8 +1,8 @@
 # Thats Cooked!
 
 
-- [crostoli](recipes/crostoli.md)
-- [lemon twist biscuits](recipes/lemon-twist-biscuits.md)
-- [pasta dough](recipes/pasta.md)
-- [tofu bulgogi](recipes/tofu-bulgogi.md)
-- [tofu bulgogi](recipes/simple-dhal.md)
+- [Crostoli](recipes/crostoli.md)
+- [Lemon twist biscuits](recipes/lemon-twist-biscuits.md)
+- [{asta dough](recipes/pasta.md)
+- [Tofu bulgogi](recipes/tofu-bulgogi.md)
+- [Simple Dahl](recipes/simple-dhal.md)
