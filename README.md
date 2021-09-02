@@ -1,4 +1,4 @@
-# Thats Cooked!
+# That's Cooked!
 
 
 - [Crostoli](recipes/crostoli.md)
