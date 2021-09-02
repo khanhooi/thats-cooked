@@ -16,7 +16,7 @@ Qty|Ingredient
 1 1/2 teaspoon|sugar
 
 
-## Steps
+## Method
 1. In a pan add:
     - crumbed tofu (mash with fork)
     - chopped brown onion
