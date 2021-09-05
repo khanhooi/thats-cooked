@@ -6,5 +6,5 @@
 - [Pasta dough](recipes/pasta-dough.md)
 - [Tofu bulgogi](recipes/tofu-bulgogi.md)
 - [Simple Dahl](recipes/simple-dhal.md)
-- [Roti Canai](recipes/rot-canai.md)
-- [mustard cauliflower cheese](mustard-cauliflower-cheese.md)
+- [Roti Canai](recipes/roti-canai.md)
+- [mustard cauliflower cheese](recipes/mustard-cauliflower-cheese.md)
