@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-1|brown onion (finely chopped)
-5|garlic cloves (diced)
-3|spring onions (finely sliced)
-250 grams|firm/hard Tofu (mashed)
-2 tbspn|peanut oil
-1 tbspn|chilli oil
-1/2 tbspn|dark soy sauce
-1 tbspn|soy sauce
-1 tbspn|rice wine vinegar
-1 1/2 teaspoon|sugar
+|Qty|Ingredient
+|-|-
+|1|brown onion (finely chopped)
+|5|garlic cloves (diced)
+|3|spring onions (finely sliced)
+|250 grams|firm/hard Tofu (mashed)
+|2 tbspn|peanut oil
+|1 tbspn|chilli oil
+|1/2 tbspn|dark soy sauce
+|1 tbspn|soy sauce
+|1 tbspn|rice wine vinegar
+|1 1/2 teaspoon|sugar
 
 
 ## Method

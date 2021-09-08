@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-60 grams|butter
-100 grams|caster sugar
-8|eggs
-2 tsp |vanilla essence
-1/4 cup|brandy/sherry
-1 kg|Plain (AP) Flour 
+|Qty|Ingredient
+|-|-
+|60 grams|butter
+|100 grams|caster sugar
+|8|eggs
+|2 tsp |vanilla essence
+|1/4 cup|brandy/sherry
+|1 kg|Plain (AP) Flour 
 ||icing sugar to dust
-2 - 3L|vegetable oil
+|2 - 3L|vegetable oil
 
 ## Method
 

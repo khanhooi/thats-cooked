@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-1 cup|'00' flour
-1 cup|fine semolina flour
-8|eggs
-1 tbspn|olive oil
-1 tsp|salt
+|Qty|Ingredient
+|-|-
+|1 cup|'00' flour
+|1 cup|fine semolina flour
+|8|eggs
+|1 tbspn|olive oil
+|1 tsp|salt
 
 ## Method
 

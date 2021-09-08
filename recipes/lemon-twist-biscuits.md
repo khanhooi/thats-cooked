@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-90 grams|butter
-1/2 cup|caster sugar
-2|eggs
-2 tsp|lemon rind
-1 1/2 cups|plain flour
+|Qty|Ingredient
+|-|-
+|90 grams|butter
+|1/2 cup|caster sugar
+|2|eggs
+|2 tsp|lemon rind
+|1 1/2 cups|plain flour
 
 ## Method
 

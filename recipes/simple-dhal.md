@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-1/2 cup|red lentils
-1/2 cup|mung dhal (pale yellow)
-a few slices|ginger
-1 tsp |turmeric powder
-3 tbspn|coriander powder
-4 cloves|garlic
-2 tbspn|butter
-1 tsp| salt
-1 tsp|chilli
-1 cup|zucchini or spinach
+|Qty|Ingredient
+|-|-
+|1/2 cup|red lentils
+|1/2 cup|mung dhal (pale yellow)
+|a few slices|ginger
+|1 tsp |turmeric powder
+|3 tbspn|coriander powder
+|4 cloves|garlic
+|2 tbspn|butter
+|1 tsp| salt
+|1 tsp|chilli
+|1 cup|zucchini or spinach
 
 ## Method
 

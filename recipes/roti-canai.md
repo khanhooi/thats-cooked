@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-Qty|Ingredient
--|-
-580 grams|white bread flour
-1 cup|water
-1 1/2 tsp|salt
-1 1/2 tsp|sugar
-1/4 cup|ghee
-1|egg
+|Qty|Ingredient
+|-|-
+|580 grams|white bread flour
+|1 cup|water
+|1 1/2 tsp|salt
+|1 1/2 tsp|sugar
+|1/4 cup|ghee
+|1|egg
 
 
 ## Method
