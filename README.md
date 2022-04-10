@@ -9,3 +9,4 @@
 - [Roti Canai](recipes/roti-canai.md)
 - [Mustard Cauliflower Cheese](recipes/mustard-cauliflower-cheese.md)
 - [Almond Cornflake Biscuits](recipes/almond-cornflake-biscuits.md)
+- [Scones](recipes/scones.md)
