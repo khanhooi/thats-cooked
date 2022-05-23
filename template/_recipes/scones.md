@@ -1,5 +1,8 @@
-# Scones
-
+---
+title: Scones
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient

@@ -1,5 +1,8 @@
-# Simple Dhal
-
+---
+title: Simple Dhal
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient

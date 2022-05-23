@@ -1,5 +1,8 @@
-# Crostoli
-
+---
+title: Crostoli
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient

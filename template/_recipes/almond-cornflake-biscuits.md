@@ -1,5 +1,8 @@
-# Almond/Cornflake Biscuits
-
+---
+title: Almond/Cornflake Biscuits
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient
