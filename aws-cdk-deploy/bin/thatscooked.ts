@@ -8,7 +8,7 @@ new thatscookedStack(app, 'thats-cooked-stack', {
   description: "A simple static website for thatscooked.net",
 
   env: { account: process.env.CDK_DEFAULT_ACCOUNT, region: process.env.CDK_DEFAULT_REGION },
-  stackName: "thats-cooked-prod",
+  stackName: "thats-cooked-master",
   domain: "thatscooked.net",
   staticAssetDirectory: './website-dist',
 
