@@ -1,5 +1,8 @@
-# Mustard Cauliflower Cheese
-
+---
+title: Mustard Cauliflower Cheese
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient

@@ -1,5 +1,8 @@
-# Tofu bulgogi (Vegan)
-
+---
+title: Tofu Bulgogi
+tags: breakfast
+layout: post
+---
 ## Ingredients
 
 |Qty|Ingredient
