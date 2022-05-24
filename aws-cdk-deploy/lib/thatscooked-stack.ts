@@ -2,11 +2,11 @@ import * as cdk from 'aws-cdk-lib';
 import { App } from 'aws-cdk-lib';
 
 export interface thatscookedStackProps extends cdk.StackProps {
-  readonly domain: string;
-  readonly certificateArn: string;
-
   // relative path of the directory to be deployed to the s3 bucket
   readonly staticAssetDirectory: string;
+  readonly domain: string;
+  readonly subdomain: string;
+  readonly certificateArn: string;
 }
 
 export class thatscookedStack extends cdk.Stack {
@@ -50,14 +50,13 @@ export class thatscookedStack extends cdk.Stack {
     //Add the Subdomain to Route53
     new cdk.aws_route53.ARecord(this, 'Domain', {
       zone: zone,
-      recordName: props.domain,
+      recordName: props.subdomain,
       target: recordTarget     
     });
 
-    const wwwSubDomain = 'www.' + props.domain
     new cdk.aws_route53.ARecord(this, 'wwwSubDomain', {
       zone: zone,
-      recordName: wwwSubDomain,
+      recordName: 'www.' + props.subdomain,
       target: recordTarget
     });
   }

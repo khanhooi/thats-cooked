@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
+      - run: echo ${{ github.ref_name	 }}
       - name: jekyll Build
         run: |
           docker run --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.2.2 \
-          sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && DEPLOYMENT_ENVIRONMENT=${GITHUB_REF#refs/heads/} jekyll build --destination '../aws-cdk-deploy/website-dist'"
+          sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && DEPLOYMENT_ENVIRONMENT=${{ github.ref_name }} jekyll build --destination '../aws-cdk-deploy/website-dist'"
 
       # revert ownership back
       - run: sudo chown -R `id -u`:`id -g` .

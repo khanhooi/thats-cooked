@@ -13,6 +13,7 @@ if ( process.env.DEPLOYMENT_ENVIRONMENT == 'master' )
     env: { account: process.env.CDK_DEFAULT_ACCOUNT, region: process.env.CDK_DEFAULT_REGION },
     stackName: "thats-cooked-master",
     domain: "thatscooked.net",
+    subdomain: "thatscooked.net",
     staticAssetDirectory: './website-dist',
   
     // Request certificate via console at Amazon Certificate Manager (ACM) (DNS validation is recommended):
@@ -25,7 +26,8 @@ else
     description: "development stack for dev.thatscooked.net",
     env: { account: process.env.CDK_DEFAULT_ACCOUNT, region: process.env.CDK_DEFAULT_REGION },
     stackName: "thats-cooked-dev",
-    domain: "dev.thatscooked.net",
+    domain: "thatscooked.net",
+    subdomain: "dev.thatscooked.net",
     staticAssetDirectory: './website-dist',
   
     // Request certificate via console at Amazon Certificate Manager (ACM) (DNS validation is recommended):
