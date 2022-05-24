@@ -25,15 +25,15 @@ layout: post
 ## Method
 
 1. Combine the following in a bowl
-  1. 1/2 cup yoghurt
-  2. 1 tbsp lemon juice
-  3. 1 tsp tumeric powder
-  4. 2 tsp garam masala
-  5. 1/2 tsp chili powder
-  6. 1 tsp ground cumin
-  7. 1 tbsp grated ginger
-  8. 2 crushed garlic cloves
-  9. 400 grams paneer, cut into bite sized chunks
+  - 1/2 cup yoghurt
+  - 1 tbsp lemon juice
+  - 1 tsp tumeric powder
+  - 2 tsp garam masala
+  - 1/2 tsp chili powder
+  - 1 tsp ground cumin
+  - 1 tbsp grated ginger
+  - 2 crushed garlic cloves
+  - 400 grams paneer, cut into bite sized chunks
 2. cover and refridgerate for at least 3 hours, up to 24 hours
 3. heat ghee/butter in a large pan or wok
 4. Cook the marinated paneer for around 3 minutes
