@@ -23,7 +23,7 @@ if ( process.env.DEPLOYMENT_ENVIRONMENT == 'master' )
 else
 {
   new thatscookedStack(app, 'thats-cooked-dev-stack', {
-    description: "development stack for dev.thatscooked.net",
+    description: `development stack for dev.thatscooked.net`,
     env: { account: process.env.CDK_DEFAULT_ACCOUNT, region: process.env.CDK_DEFAULT_REGION },
     stackName: "thats-cooked-dev",
     domain: "thatscooked.net",

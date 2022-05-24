@@ -37,7 +37,7 @@ export class thatscookedStack extends cdk.Stack {
         viewerProtocolPolicy: cdk.aws_cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
       },
       certificate: certificate,
-      domainNames: [props.domain, 'www.' + props.domain ]
+      domainNames: [props.subdomain, 'www.' + props.subdomain ]
     });
 
     //Lookup the zone based on domain name
