@@ -8,9 +8,14 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 ## Jekyll
  - install gem, then
     
+```
 gem install jekyll bundler
+```
 
-cd template && bundle exec jekyll serve
+```
+cd template
+bundle  exec jekyll serve
+```
 
 ## Requirements
 yarn,

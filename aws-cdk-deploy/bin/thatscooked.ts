@@ -4,13 +4,11 @@ import * as cdk from 'aws-cdk-lib';
 import { thatscookedStack } from '../lib/thatscooked-stack';
 
 const app = new cdk.App();
-new thatscookedStack(app, 'thatscookedStack', {
-  description: "A simple application for creating secret santa lists. Describes both front and backend components.",
+new thatscookedStack(app, 'thats-cooked-stack', {
+  description: "A simple static website for thatscooked.net",
 
-  /* Uncomment the next line to specialize this stack for the AWS Account
-   * and Region that are implied by the current CLI configuration. */
   env: { account: process.env.CDK_DEFAULT_ACCOUNT, region: process.env.CDK_DEFAULT_REGION },
-  stackName: "thatscookednet",
+  stackName: "thats-cooked-prod",
   domain: "thatscooked.net",
   staticAssetDirectory: './website-dist',
 
