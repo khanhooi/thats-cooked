@@ -3,6 +3,15 @@ import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
 import { thatscookedStack } from '../lib/thatscooked-stack';
 
+declare var process : {
+  env: {
+    CERTIFICATE_ARN: string
+    DEPLOYMENT_ENVIRONMENT: string
+    CDK_DEFAULT_REGION: string
+    CDK_DEFAULT_ACCOUNT: string
+  }
+}
+
 const app = new cdk.App();
 
 console.log('DEPLOYMENT_ENVIRONMENT 👉', process.env.DEPLOYMENT_ENVIRONMENT);
@@ -15,9 +24,7 @@ if ( process.env.DEPLOYMENT_ENVIRONMENT == 'master' )
     domain: "thatscooked.net",
     subdomain: "thatscooked.net",
     staticAssetDirectory: './website-dist',
-  
-    // Request certificate via console at Amazon Certificate Manager (ACM) (DNS validation is recommended):
-    certificateArn: "arn:aws:acm:us-east-1:945103061005:certificate/d6b67eca-ee19-4c3c-9464-acca382da17a",
+      certificateArn: process.env.CERTIFICATE_ARN,
   });
 }
 else
@@ -29,8 +36,6 @@ else
     domain: "thatscooked.net",
     subdomain: "dev.thatscooked.net",
     staticAssetDirectory: './website-dist',
-  
-    // Request certificate via console at Amazon Certificate Manager (ACM) (DNS validation is recommended):
-    certificateArn: "arn:aws:acm:us-east-1:945103061005:certificate/d6b67eca-ee19-4c3c-9464-acca382da17a",
+      certificateArn: process.env.CERTIFICATE_ARN,
   });
 }
