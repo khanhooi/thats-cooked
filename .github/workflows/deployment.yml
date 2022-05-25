@@ -42,4 +42,5 @@ jobs:
         env:
           DEPLOYMENT_ENVIRONMENT: ${{ github.ref_name }} 
           CERTIFICATE_ARN: ${{ secrets.CERTIFICATE_ARN }}
+          STATIC_ASSET_DIRECTORY: ${{ github.workspace }}/template/_site
         run: yarn cdk deploy --all --require-approval never
