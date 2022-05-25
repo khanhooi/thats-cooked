@@ -37,8 +37,11 @@ export class thatscookedStack extends cdk.Stack {
         viewerProtocolPolicy: cdk.aws_cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
       },
       certificate: certificate,
-      domainNames: [props.subdomain, 'www.' + props.subdomain ],
-      errorResponses: [ { httpStatus: 404, responsePagePath: '404.html' } ]
+      domainNames: [props.subdomain, 'www.' + props.subdomain],
+      errorResponses: [
+        { httpStatus: 400, responsePagePath: '/404.html' },
+        { httpStatus: 403, responsePagePath: '/404.html' },
+        { httpStatus: 404, responsePagePath: '/404.html' }]
     });
 
     //Lookup the zone based on domain name
@@ -52,7 +55,7 @@ export class thatscookedStack extends cdk.Stack {
     new cdk.aws_route53.ARecord(this, 'Domain', {
       zone: zone,
       recordName: props.subdomain,
-      target: recordTarget     
+      target: recordTarget
     });
 
     new cdk.aws_route53.ARecord(this, 'wwwSubDomain', {

@@ -23,7 +23,7 @@ if ( process.env.DEPLOYMENT_ENVIRONMENT == 'master' )
     stackName: "thats-cooked-master",
     domain: "thatscooked.net",
     subdomain: "thatscooked.net",
-    staticAssetDirectory: './website-dist',
+    staticAssetDirectory: '../template/_site',
       certificateArn: process.env.CERTIFICATE_ARN,
   });
 }
@@ -35,7 +35,7 @@ else
     stackName: "thats-cooked-dev",
     domain: "thatscooked.net",
     subdomain: "dev.thatscooked.net",
-    staticAssetDirectory: './website-dist',
+    staticAssetDirectory: '../template/_site',
       certificateArn: process.env.CERTIFICATE_ARN,
   });
 }
