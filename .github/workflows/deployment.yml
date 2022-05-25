@@ -17,7 +17,7 @@ jobs:
       - name: jekyll Build
         run: |
           docker run --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.2.2 \
-          sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && jekyll build --destination '../aws-cdk-deploy/website-dist'"
+          sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && jekyll build --destination '_site'"
 
       # revert ownership back
       - run: sudo chown -R `id -u`:`id -g` .
@@ -42,4 +42,5 @@ jobs:
         env:
           DEPLOYMENT_ENVIRONMENT: ${{ github.ref_name }} 
           CERTIFICATE_ARN: ${{ secrets.CERTIFICATE_ARN }}
+          STATIC_ASSET_DIRECTORY: ${{ github.workspace }}/template/_site
         run: yarn cdk deploy --all --require-approval never

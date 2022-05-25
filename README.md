@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project!
+# That's Cooked
+This is the project behind the website, thatscooked.net
 
-This is a blank project for TypeScript development with CDK.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 
 ## Jekyll
