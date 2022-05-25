@@ -1,6 +1,6 @@
 ---
 title: Lemon Twist Biscuits
-tags: breakfast
+tags: [ biscuits, sweets ]
 layout: post
 ---
 ## Ingredients

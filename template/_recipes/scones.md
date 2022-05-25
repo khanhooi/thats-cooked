@@ -1,6 +1,6 @@
 ---
 title: Scones
-tags: breakfast
+tags: [breakfast]
 layout: post
 ---
 ## Ingredients

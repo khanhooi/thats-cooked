@@ -1,6 +1,6 @@
 ---
 title: Pasta Dough
-tags: breakfast
+tags: [pasta]
 layout: post
 ---
 ## Ingredients

@@ -1,6 +1,6 @@
 ---
 title: Mustard Cauliflower Cheese
-tags: breakfast
+tags: [ comfort-food ]
 layout: post
 ---
 ## Ingredients

@@ -5,10 +5,8 @@
 layout: home
 ---
 
-{% for recipe in site.recipes %}
-  <h2>
-    <a href="{{ recipe.url }}">
-      {{ recipe.title }}
-    </a>
-  </h2>
-{% endfor %}
+# Find Recipe
+
+
+## [All Recipes](/all_recipes.html)
+## [Recipes by category](/recipe_tags.html)
