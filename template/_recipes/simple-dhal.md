@@ -1,6 +1,6 @@
 ---
 title: Simple Dhal
-tags: breakfast
+tags: [curry]
 layout: post
 ---
 ## Ingredients

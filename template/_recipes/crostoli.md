@@ -1,6 +1,6 @@
 ---
 title: Crostoli
-tags: breakfast
+tags: [ desserts, sweets ]
 layout: post
 ---
 ## Ingredients

@@ -1,6 +1,6 @@
 ---
 title: Roti Canai
-tags: breakfast
+tags: [bread, malaysian, flatbread]
 layout: post
 ---
 ## Ingredients

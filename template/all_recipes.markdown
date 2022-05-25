@@ -8,5 +8,5 @@ permalink: /all_recipes.html
 
 |recipe|tags
 |-|-
-{% for recipe in site.recipes %} | [{{ recipe.title }}]({{recipe.url}}) | {{ recipe.tags | join: ', ' }} 
+{% for recipe in site.recipes %} | [{{ recipe.title }}]({{recipe.url}}) |  {% for tag in recipe.tags %}  [{{tag|capitalize}}]( tags/{{ tag }}.html ) {% endfor %} 
 {% endfor %}

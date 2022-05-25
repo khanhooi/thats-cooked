@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.tag }}</h1>
+<header class="post-header">
+  <h1 class="post-title">{{ page.tag | capitalize }}</h1>
+</header>
+
 {% for recipe in site.recipes %}
 {% if recipe.tags contains page.tag %}
+<p>
 <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+</p>
 {% endif %}
 {% endfor %}

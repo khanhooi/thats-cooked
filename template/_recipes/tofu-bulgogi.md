@@ -1,6 +1,6 @@
 ---
 title: Tofu Bulgogi
-tags: breakfast
+tags: [tofu,dinner]
 layout: post
 ---
 ## Ingredients

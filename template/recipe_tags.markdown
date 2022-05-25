@@ -5,7 +5,7 @@ title: Recipe Tags
 layout: page
 permalink: /recipe_tags.html
 ---
-{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
+{% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
 {% for tag in tags %}
-[ {{ tag }} ]( tags/{{ tag }}.html )
+- [ {{ tag | capitalize  }} ]( tags/{{ tag }}.html )
 {% endfor %}

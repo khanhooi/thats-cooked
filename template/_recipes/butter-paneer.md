@@ -1,6 +1,6 @@
 ---
 title: Butter Paneer
-tags: [ curry, dinner, paneer ]
+tags: [ curry, paneer  ]
 layout: post
 ---
 ## Ingredients
