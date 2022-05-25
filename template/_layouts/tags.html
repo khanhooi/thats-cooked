@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<h1>{{ page.tag }}</h1>
+{% for recipe in site.recipes %}
+{% if recipe.tags contains page.tag %}
+<li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+{% endif %}
+{% endfor %}

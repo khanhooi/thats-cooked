@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: All Recipes
 layout: page
+permalink: /all_recipes.html
 ---
 
 |recipe|tags

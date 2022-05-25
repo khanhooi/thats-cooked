@@ -3,15 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Recipe Tags
 layout: page
+permalink: /recipe_tags.html
 ---
 {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq %}
 {% for tag in tags %}
-  <h3>{{ tag }}</h3>
-  <ul>
-  {% for recipe in site.recipes %}
-    {% if recipe.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-  </ul>
+[ {{ tag }} ]( tags/{{ tag }}.html )
 {% endfor %}
