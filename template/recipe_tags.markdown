@@ -7,5 +7,4 @@ permalink: /recipe_tags.html
 ---
 {% assign tags =  site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
 {% for tag in tags %}
-- [ {{ tag | capitalize  }} ]( tags/{{ tag }}.html )
-{% endfor %}
+| [ {{ tag | capitalize  }} ]( tags/{{ tag }}.html ) |{% endfor %}
