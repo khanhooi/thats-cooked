@@ -9,6 +9,7 @@ layout: post
 |-|-
 |580 grams|white bread flour
 |1 cup|water
+|1/4 cup|condensed milk
 |1 1/2 tsp|salt
 |1 1/2 tsp|sugar
 |1/4 cup|ghee
@@ -19,10 +20,10 @@ layout: post
 
 1. mix flour, salt and sugar together in a mixing bowl
 2. Add the 1/4 cup of ghee to the flour, mixing thoroughly until it is evenly dispersed
-3. Whisk the egg together with the water in a seperate bowl
+3. Whisk the egg together with the water and condensed milk in a seperate bowl
 4. Add the liquid mixure to the flour in the mixing bowl, and combine.
 5. turn out onto a clean surface, do not add additional flour
-6. kneed for at least 10 minutes
+6. knead for at least 10 minutes
 7. Split into 8 equal size peices, roll into balls, and roll each ball in more ghee.
 8. Cover and rest for at least 6 hours at room temperature or overnight in the fridge.
 9. Stretch each ball out on a ghee greased surface until it is paper thin and transluscent, forming a large disc about 80 cm in diameter

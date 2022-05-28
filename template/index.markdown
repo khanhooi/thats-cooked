@@ -5,8 +5,7 @@
 layout: home
 ---
 
-# Find Recipe
+![That's Cooked!](assets/thats-cooked.svg "That's Cooked")
 
-
-## [All Recipes](/all_recipes.html)
-## [Recipes by category](/recipe_tags.html)
+|-|-|
+| [All Recipes](/all_recipes.html) | [Categories](/categories.html) |
