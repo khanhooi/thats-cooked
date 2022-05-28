@@ -2,11 +2,20 @@
 layout: default
 ---
 
+<table>
+  <tbody>
+   
 {% for recipe in site.recipes %}
 {% if recipe.tags contains page.tag %}
-<p>
-<li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+
+<tr>
+  <td><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></td>
+</tr>
+
 </p>
 {% endif %}
 {% endfor %}
 
+
+</tbody>
+</table>
