@@ -29,9 +29,10 @@ module Jekyll
         # Define any custom data you want.
         @data = {
           'layout' => 'page',
-          'custom' => 'data',
           # Get data from wherever you need.
-          'tag' =>  tag
+          'tag' =>  tag,
+          'title' => tag.capitalize()
+          
         }
         end
     end
