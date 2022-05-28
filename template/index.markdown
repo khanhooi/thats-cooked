@@ -8,4 +8,4 @@ layout: home
 ![That's Cooked!](assets/thats-cooked.svg "That's Cooked")
 
 |-|-|
-| [All Recipes](/all_recipes.html) | [Categories](/recipe_tags.html) |
+| [All Recipes](/all_recipes.html) | [Categories](/categories.html) |
