@@ -9,3 +9,13 @@ layout: home
 
 |-|-|
 | [All Recipes](/all_recipes.html) | [Categories](/categories.html) |
+
+
+## What's New...
+{% assign sorted = site.recipes | sort: 'date' | reverse  %}
+{% for item in sorted limit:3%}
+[{{ item.title }}]( {{item.url}} )
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<br>
+{{ item.date | date: date_format }}
+{% endfor %}
