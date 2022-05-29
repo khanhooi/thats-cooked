@@ -1,11 +1,12 @@
 ---
 title: Roti Canai
 tags: [bread, malaysian, flatbread]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |580 grams|white bread flour
 |1 cup|water

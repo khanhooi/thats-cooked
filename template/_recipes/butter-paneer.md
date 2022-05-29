@@ -1,11 +1,12 @@
 ---
 title: Butter Paneer
 tags: [ curry, paneer  ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |400 grams|paneer
 |1/2 cup|plain yoghurt

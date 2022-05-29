@@ -1,11 +1,12 @@
 ---
 title: Mustard Cauliflower Cheese
 tags: [ comfort-food ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |1 |large cauliflower (broken into ~4cm peices)
 |30 g|unsalted butter

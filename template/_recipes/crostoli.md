@@ -1,11 +1,12 @@
 ---
 title: Crostoli
 tags: [ desserts, sweets ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |60 grams|butter
 |100 grams|caster sugar

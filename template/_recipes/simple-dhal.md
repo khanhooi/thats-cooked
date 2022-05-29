@@ -1,11 +1,12 @@
 ---
 title: Simple Dhal
 tags: [curry]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |1/2 cup|red lentils
 |1/2 cup|mung dhal (pale yellow)

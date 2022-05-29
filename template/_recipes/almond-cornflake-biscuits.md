@@ -1,11 +1,12 @@
 ---
 title: Almond/Cornflake Biscuits
 tags: [ biscuits ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |1|egg
 |1/2 cup|caster sugar
