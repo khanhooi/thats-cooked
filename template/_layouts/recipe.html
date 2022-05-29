@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+<style>
+  .button {
+    background-color: #cccccc;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 0px;
+    cursor: pointer;
+  }
+</style>
 <article class="post">
 
   <header class="post-header">
@@ -15,10 +29,35 @@ layout: default
     {% for tag in page.tags %}
       <a href="/tags/{{ tag }}.html">{{tag | capitalize}}</a> 
     {% endfor %}
+    <br>
+    <input class="button" type="button" id="toggle" value="Keep Screen Awake" />
   </header>
 
   <div class="post-content">
     {{ content }}
   </div>
+  <script src="/assets/NoSleep.min.js"></script>
 
+
+  <script>
+    var noSleep = new NoSleep();
+
+    var wakeLockEnabled = false;
+    var toggleEl = document.querySelector("#toggle");
+    toggleEl.addEventListener('click', function() {
+      if (!wakeLockEnabled) {
+        noSleep.enable(); // keep the screen on!
+        wakeLockEnabled = true;
+        toggleEl.value = "Wake Lock is enabled";
+        toggleEl.style.background = "#4CAF50";
+      } else {
+        noSleep.disable(); // let the screen turn off.
+        wakeLockEnabled = false;
+        toggleEl.value = "Keep Screen Awake";
+        toggleEl.style.background = "#cccccc";
+
+        
+      }
+    }, false);
+  </script>
 </article>
