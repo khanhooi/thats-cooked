@@ -1,11 +1,12 @@
 ---
 title: Tomato  Soup
 tags: [ soup, dinner ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |800 gram tin|crushed tomatoes
 |60 graams|butter

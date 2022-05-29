@@ -1,11 +1,12 @@
 ---
 title: Lemon Twist Biscuits
 tags: [ biscuits, sweets ]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |90 grams|butter
 |1/2 cup|caster sugar

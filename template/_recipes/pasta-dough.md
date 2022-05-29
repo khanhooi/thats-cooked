@@ -1,11 +1,12 @@
 ---
 title: Pasta Dough
 tags: [pasta]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |1 cup|'00' flour
 |1 cup|fine semolina flour

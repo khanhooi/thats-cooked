@@ -1,11 +1,12 @@
 ---
 title: Scones
 tags: [breakfast]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |350 g|self-raising flour
 |1 tsp|baking powder

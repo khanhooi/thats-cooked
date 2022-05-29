@@ -1,11 +1,12 @@
 ---
 title: Tofu Bulgogi
 tags: [tofu,dinner]
-layout: post
+layout: recipe
+date: 2022-05-20
 ---
 ## Ingredients
 
-|Qty|Ingredient
+|Quantity|Ingredient
 |-|-
 |1|brown onion (finely chopped)
 |5|garlic cloves (diced)
