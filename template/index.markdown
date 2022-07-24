@@ -14,8 +14,9 @@ layout: home
 ## What's New...
 {% assign sorted = site.recipes | sort: 'date' | reverse  %}
 {% for item in sorted limit:3%}
-[{{ item.title }}]( {{item.url}} )
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+[{{ item.title }}]( {{item.url}} )
+{{ item.description }}
 <br>
 {{ item.date | date: date_format }}
 {% endfor %}
