@@ -16,8 +16,8 @@ layout: home
 {% for item in sorted limit:3%}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ item.date | date: date_format }}
-[{{ item.title }}]( {{item.url}} ) - 
-{{ item.description }}
-
 <br>
+[{{ item.title }}]( {{item.url}} )
+<br>
+{{ item.description }}
 {% endfor %}
