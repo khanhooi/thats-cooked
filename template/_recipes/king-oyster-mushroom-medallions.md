@@ -3,6 +3,7 @@ title: King Oyster Mushroom Medallions
 tags: [ mushrooms ]
 layout: recipe
 date: 2022-06-01
+description: A delectable, melt in the mouth mushroom medallion akin to a scallop.
 ---
 
 ## Ingredients

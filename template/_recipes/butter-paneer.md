@@ -3,6 +3,7 @@ title: Butter Paneer
 tags: [ curry, paneer  ]
 layout: recipe
 date: 2022-05-22
+description: An unbeatable, super easy butter paneer/chicken curry. Real comfort food.
 ---
 ## Ingredients
 

@@ -3,13 +3,14 @@ title: Tomato  Soup
 tags: [ soup, dinner ]
 layout: recipe
 date: 2022-05-20
+description: An absurdly easy but satisfying 3 ingredient soup made from items you probably have on standby.
 ---
 ## Ingredients
 
 |Quantity|Ingredient
 |-|-
 |800 gram tin|crushed tomatoes
-|60 graams|butter
+|60 grams|butter
 |1|onion
 |1 1/2 cups|chicken/vegetable stock
 |1/2 tspn|salt
@@ -24,4 +25,4 @@ date: 2022-05-20
 6. season with pepper
 
 ## Notes
-serves 2, best to double ingredients
+Ingredients listed serves 2, best to double ingredients

@@ -3,6 +3,7 @@ title: Crispy Noodles
 tags: [ asian, noodles ]
 layout: recipe
 date: 2022-06-07
+description: Asian stirfry with a silky sauce served on top of dry crispy noodles.
 ---
 ## Ingredients
 

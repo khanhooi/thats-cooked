@@ -3,6 +3,7 @@ title: Scones
 tags: [breakfast]
 layout: recipe
 date: 2022-05-20
+description: Soft, basic breakfast or afternoon tea scone, best served with jam and whipped cream.
 ---
 ## Ingredients
 
