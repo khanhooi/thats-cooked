@@ -3,6 +3,7 @@ title: Tofu Bulgogi
 tags: [tofu,dinner]
 layout: recipe
 date: 2022-05-20
+description: A spicy crumbed tofu, can be served with rice, or used as a meat substitute in dumplings or other dishes.
 ---
 ## Ingredients
 

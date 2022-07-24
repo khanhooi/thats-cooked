@@ -3,6 +3,7 @@ title: Simple Dhal
 tags: [curry]
 layout: recipe
 date: 2022-05-20
+description: A simple lentil curry, can be made more substantial by any additional vegetables.
 ---
 ## Ingredients
 
