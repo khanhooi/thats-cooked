@@ -23,4 +23,4 @@ description: The crispiest, fluffiest, most decadent roast potatoes
 6. Wait for the oven to come to temperature, the oil should be hot enough by then - test by putting in pinch of potato - ready when it sizzles straight away
 7. Pour the potatoes in carefully. Use a spatula to toss the potatoes in the oil, spread out as best as you can and return to the oven.
 8. Turn the oven to 220 degrees C. Roast for around 50 minutes or up to 1h 15 minutes. Turn once during baking. Ready when golden brown with browned edges. 
-9. Serve immediately, stay crunchy 
+9. Serve immediately, as they will stay crunchy for only 30 minutes
