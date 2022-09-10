@@ -1,6 +1,6 @@
 ---
 title: Waffles
-tags: [ Breakfast, Dessert, Sweets ]
+tags: [ Breakfast, Desserts, Sweets ]
 layout: recipe
 date: 2022-06-07
 description: Basic waffle recipe which works well in a waffle maker - makes 2 large waffles
