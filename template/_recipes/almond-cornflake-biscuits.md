@@ -3,6 +3,7 @@ title: Almond/Cornflake Biscuits
 tags: [ biscuits ]
 layout: recipe
 date: 2022-05-20
+description: Delicious, slightly sweet biscuits with roasted almonds and crunchy cornflakes that go well with a cup of tea.
 ---
 ## Ingredients
 

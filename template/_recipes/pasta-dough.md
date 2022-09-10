@@ -3,6 +3,7 @@ title: Pasta Dough
 tags: [pasta]
 layout: recipe
 date: 2022-05-20
+description: Basic egg pasta dough recipe.
 ---
 ## Ingredients
 

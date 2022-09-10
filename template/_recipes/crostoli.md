@@ -3,6 +3,7 @@ title: Crostoli
 tags: [ desserts, sweets ]
 layout: recipe
 date: 2022-05-20
+description: Light and crispy, bubbled sweet  traditional Italian pastry delights. 
 ---
 ## Ingredients
 

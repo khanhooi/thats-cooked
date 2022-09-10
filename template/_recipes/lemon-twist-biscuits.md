@@ -3,6 +3,7 @@ title: Lemon Twist Biscuits
 tags: [ biscuits, sweets ]
 layout: recipe
 date: 2022-05-20
+description: A plain dunkable biscuit with a firm bite and a hint of lemon.
 ---
 ## Ingredients
 

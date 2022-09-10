@@ -3,6 +3,7 @@ title: Mustard Cauliflower Cheese
 tags: [ comfort-food ]
 layout: recipe
 date: 2022-05-20
+description: A creamy winter warming dish, great as a side or a main, accompanied with rice or mash.
 ---
 ## Ingredients
 
