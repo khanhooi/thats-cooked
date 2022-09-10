@@ -2,7 +2,7 @@
 title: Puttanesca Pasta Sauce
 tags: [ pasta ]
 layout: recipe
-date: 2022-07-27
+date: 2022-09-10
 description: A light, spicy sauce packed with flavour, best paired with [egg pasta]({{ site.baseurl }}{% link recipes_/pasta-dough.md %}) spaghetti or penne
 
 ---
