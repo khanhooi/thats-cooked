@@ -21,7 +21,7 @@ description: Basic waffle recipe which works well in a waffle maker - makes 2 la
 
 ## Method
 
-1. Preheat le waffle iron
+1. Preheat the waffle iron
 2. Sift 1 cup flour, 1 tsp baking powder, 2 tbsp sugar and 1 pinch salt
 3. In a separate jug, whisk together 1 egg, 1 cup milk and 1 tsp vanilla essence. 
 4. Add to flour mixture till combined. 
