@@ -30,4 +30,4 @@ description: A light, spicy sauce packed with flavour, best paired with spaghett
 8. Remove from heat and serve. Top with hard cheese and parsley if available.
 
 ## Note
-best paired with freshly made [egg pasta (recipe)]({{ site.baseurl }}{% link pasta-dough.md %})
+best paired with freshly made [egg pasta (recipe)]({{ site.baseurl }}{% _recipes pasta-dough.md %})
