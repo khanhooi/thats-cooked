@@ -3,7 +3,7 @@ title: Puttanesca Pasta Sauce
 tags: [ pasta ]
 layout: recipe
 date: 2022-09-10
-description: A light, spicy sauce packed with flavour, best paired with [egg pasta]({{ site.baseurl }}{% link /recipes_/pasta-dough.md %}) spaghetti or penne
+description: A light, spicy sauce packed with flavour, best paired with spaghetti or penne
 
 ---
 ## Ingredients
@@ -28,3 +28,6 @@ description: A light, spicy sauce packed with flavour, best paired with [egg pas
 6. cook the pasta
 7. Add the pasta to the sauce, and stir, adding more pasta water if necessary.
 8. Remove from heat and serve. Top with hard cheese and parsley if available.
+
+## Note
+best paired with freshly made [egg pasta (recipe)]({{ site.baseurl }}{% link pasta-dough.md %})
