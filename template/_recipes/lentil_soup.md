@@ -1,5 +1,5 @@
 ---
-title: Butter Paneer
+title: Lentil Soup
 tags: [ curry, soup  ]
 layout: recipe
 date: 2022-10-11
@@ -37,5 +37,6 @@ description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt.
   - 4 crushed cloves garlic
   - 3 tbsp coriander powder
 4. add the fried oil to the pot, and blend until combined
-5. season to taste
-6. serve with croutons
+5. add more water if necessary for desired consistency
+6. season to taste
+7. serve with croutons
