@@ -3,7 +3,7 @@ title: Lentil Soup
 tags: [ curry, soup  ]
 layout: recipe
 date: 2022-10-11
-description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt.
+description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt
 ---
 ## Ingredients
 
@@ -19,7 +19,6 @@ description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt.
 |4 cloves|garlic
 |4 tbsp|vegetable oil
 ||salt
-
 
 ## Method
 
