@@ -1,6 +1,6 @@
 ---
 title: Lentil Soup
-tags: [ curry, soup  ]
+tags: [ curry, soup ]
 layout: recipe
 date: 2022-10-11
 description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt
