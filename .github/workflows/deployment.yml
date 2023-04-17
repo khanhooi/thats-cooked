@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: echo ${{ github.ref_name	 }}
       - name: jekyll Build
         env: 
           JEKYLL_ENV: ${{ github.ref_name }}
