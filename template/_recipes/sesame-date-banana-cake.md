@@ -1,6 +1,6 @@
 ---
 title: Sesame Date Banana Cake
-tags: [ desserts ]
+tags: [ desserts, cake ]
 layout: recipe
 date: 2022-09-10
 description: A moreish, light Middle-Easten inspired cake which serves 8-10.
