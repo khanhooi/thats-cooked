@@ -2,18 +2,12 @@
 This is the project behind the website, thatscooked.net
 
 
-
+Dev branches get built at dev.thatscooked.net
 
 ## Jekyll
- - install gem, then
-    
-```
-gem install jekyll bundler
-```
 
 ```
-cd template
-bundle  exec jekyll serve
+docker run --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.2.2           sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && jekyll build --destination '_site'"
 ```
 
 ## Requirements

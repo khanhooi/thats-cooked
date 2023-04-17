@@ -13,13 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: echo ${{ github.ref_name	 }}
       - name: jekyll Build
         env: 
           JEKYLL_ENV: ${{ github.ref_name }}
         run: |
           docker run --rm --volume="$PWD:/srv/jekyll" jekyll/jekyll:4.2.2 \
           sh -c "chown -R jekyll . &&  chown -R jekyll /usr/gem/  && cd template && jekyll build --destination '_site'"
+
+      - name: list build
+        run: find ${{ github.workspace }}/template/_site -type f
 
       # revert ownership back
       - run: sudo chown -R `id -u`:`id -g` .
