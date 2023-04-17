@@ -31,7 +31,7 @@ description: A lentil soup, recipe given by a Nubian woman in Aswan, Egypt
   - 1 diced tomato
   - 2 tsp salt
 2. submerge in water, boil for 20 minutes
-3. fry seperately the following
+3. fry separately the following
   - 4 tbsp vegetable oil
   - 4 crushed cloves garlic
   - 3 tbsp coriander powder
