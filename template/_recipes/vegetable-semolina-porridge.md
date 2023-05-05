@@ -2,7 +2,7 @@
 title: Vegetable Semolina Porridge
 tags: [ dinner ]
 layout: recipe
-date: 2023-04-19
+date: 2023-05-06
 description: Semolina porridge, topped with a selection of tasty greens.
 ---
 ## Ingredients
@@ -28,4 +28,14 @@ description: Semolina porridge, topped with a selection of tasty greens.
     - add pepper
 2. continue to fry until zucchini is soft.
 3. Reduce head to low and continue to cook for 5 minutes
-4. 
+4. Stir in peas and warm through for 1 minute.
+5. Remove from heat. 
+6. Stir in 1 tsp oregano and 1 tsp lemon zest.
+7. In a medium sauce pan on medium high heat, bring the following to boil:
+    - 300 ml milk
+    - 300 ml water
+    - pinch salt
+    - pinch pepper 
+8. Add 90 grams semolina, whisking continuously for 3-4 minutes until smooth and thick like porridge.
+9. Remove from heat and stir in 40 grams hard cheese.
+10. To serve, divide semolina mixture into bowls, top with vegetables remaining hard cheese and a drizzle of olive oil.
