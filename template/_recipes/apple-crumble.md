@@ -2,12 +2,13 @@
 title: Apple Crumble
 tags: [ breakfast, sweets ]
 layout: recipe
-date: 2023-04-18
-description: easy apple crumble
+date: 2023-09-30
+description: Easy delicious apple crumble. Great idea if granny smith apples are readily available.
 ---
 ## Ingredients
 
 ### Apple filling
+
 |Quantity|Ingredient
 |-|-
 |1 kg|Granny Smith Apples, peeled and cut into large (2cm) cubes
@@ -18,6 +19,7 @@ description: easy apple crumble
 |1 tsp|cinnamon
 
 ### Topping
+
 |Quantity|Ingredient
 |-|-
 |1 cup|oats (rolled or quick cooking is fine)
