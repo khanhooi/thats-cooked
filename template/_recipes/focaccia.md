@@ -5,11 +5,14 @@ layout: recipe
 date: 2024-04-21
 description: Easy no knead, slow rise foccacia. 
 ---
-## Important Note:
-Ensure that you plan this recipe 24 hours ahead. It requires a long, slow rise in the fridge!
+
+***Ensure that you plan this recipe 24 hours ahead. It requires a long, slow rise in the fridge!***
+
+
 ## Ingredients
 
-### Dough
+#### Dough
+
 |Quantity|Ingredient
 |-|-
 |750 g|all purpose flour
@@ -17,7 +20,10 @@ Ensure that you plan this recipe 24 hours ahead. It requires a long, slow rise i
 |12 g|instant yeast
 |680 ml |warm water
 
-### additional
+#### additional
+
+|Quantity|Ingredient
+|-|-
 |4 tbsp|olive oil
 |-|butter, for greasing
 |2 tsp|salt flakes
