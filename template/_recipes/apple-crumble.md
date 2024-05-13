@@ -26,6 +26,7 @@ description: Easy delicious apple crumble. Great idea if granny smith apples are
 |1/3 cup|brown sugar
 |1/2 tsp|baking powder
 |1 tsp|cinnamon
+|1 cup|plain flour
 |125g|unsalted butter (melted)
 |pinch|salt
 

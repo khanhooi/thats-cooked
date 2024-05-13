@@ -16,7 +16,7 @@ description: Easy no knead, slow rise foccacia.
 |Quantity|Ingredient
 |-|-
 |750 g|all purpose flour
-|10 g|salt
+|15 g|salt
 |12 g|instant yeast
 |680 ml |warm water
 
