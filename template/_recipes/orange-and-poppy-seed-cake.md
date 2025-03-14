@@ -34,7 +34,6 @@ description: Easy one layer Orange and Poppy Seed Cake
     - zest of one orange
 4. In a seperate mixing bowl, whisk together
     - 120 ml (105 grams) vegetable oil
-    - 250 grams sugar
     - 1 tsp (4g) vanilla extract
     - 2 eggs
     - 3 tablespoons (45 g) orange juice
