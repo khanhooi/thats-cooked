@@ -33,7 +33,8 @@ description: Easy lemon coconut almond cake
     - 135 g almond meal
     - 0.25 tsb salt
     - 70 g dessicated coconut
-    - lemon est
+    - lemon zest
+    - 1 tsp (4g) baking powder
 5. Pour into cake tin
 6. Sprinkle over flaked almonds
 7. Bake for 40 minutes
