@@ -8,6 +8,7 @@ description: Baked simple cornbread
 ## Ingredients
 
 |Quantity|Ingredient
+|---|---
 |1 cup|plain flour
 |1 cup|polenta
 |1 tsp (4 grams)|salt

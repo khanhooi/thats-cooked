@@ -8,6 +8,7 @@ description: Very fast yoghurt flatbread - an easy naan (Makes 6)
 ## Ingredients
 
 |Quantity|Ingredient
+|---|---
 |300 grams|plain yoghurt
 |280 grams|self-raising flour (and more for rolling)
 |4  grams|salt
