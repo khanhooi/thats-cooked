@@ -8,6 +8,7 @@ description: A chocolate cake in a hurry? No worries!
 ## Ingredients
 
 |Quantity|Ingredient
+|---|---
 |175g|caster sugar
 |140g|plain flour
 |30g| cocoa powder
